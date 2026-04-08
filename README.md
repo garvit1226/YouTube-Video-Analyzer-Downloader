@@ -72,7 +72,7 @@ python main.py
 
 ## 🎥 Demo
 
-
+https://www.linkedin.com/posts/garbhitm26_python-projects-opensource-ugcPost-7447668340933885953-qcdM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFwDbOsBvG3Poe84WytP00nCaDx5TwjAdm4
 
 ---
 
